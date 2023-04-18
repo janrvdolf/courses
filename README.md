@@ -13,3 +13,5 @@
 [UC Berkeley: CS285 Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9)
 
 [UC Berkeley: CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+
+[Pieter Abbeel: Foundations of Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
