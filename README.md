@@ -16,4 +16,4 @@
 
 [Pieter Abbeel: Foundations of Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 
-[U of Alberta: Theoretical Foundations of Reinforcement Learning](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC) [web](https://rltheory.github.io/)
+[U of Alberta: Theoretical Foundations of Reinforcement Learning](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC) | [web](https://rltheory.github.io/)
