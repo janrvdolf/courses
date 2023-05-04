@@ -1,3 +1,9 @@
+# People
+
+Interesting people working on MARL:
+
+[Jakob Foerster](https://www.jakobfoerster.com/)
+
 # Courses
 
 [CMU: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
