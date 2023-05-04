@@ -1,8 +1,9 @@
 # People
 
-Interesting people working on MARL:
+Interesting people working on RL/MARL:
 
 [Jakob Foerster](https://www.jakobfoerster.com/)
+[Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
 
 # Courses
 
