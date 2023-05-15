@@ -22,6 +22,8 @@ Interesting people working on RL/MARL:
 
 [U of Alberta: Theoretical Foundations of Reinforcement Learning](https://www.youtube.com/playlist?list=PLQCZ7_TRKVIzODPXorEyvhCk25TlcTANC) | [web](https://rltheory.github.io/)
 
+[Charles U in Prague: Deep Reinforcement Learning](https://ufal.mff.cuni.cz/courses/npfl122/2223-winter)
+
 [UC Berkeley: CS285 Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9)
 
 [UC Berkeley: CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
