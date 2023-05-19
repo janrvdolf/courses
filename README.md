@@ -28,4 +28,6 @@ Interesting people working on RL/MARL:
 
 [UC Berkeley: CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
+[IIT: Stochastic Calculus](https://www.youtube.com/playlist?list=PLPaq6BG3QWZMkwcIN1cXKx776kyQ2aznG)
+
 
