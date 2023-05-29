@@ -16,6 +16,8 @@ Interesting people working on RL/MARL:
 
 [Stanford U: CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
+[MIT: 6.S192 Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
+
 [Stanford U: CS330 Deep Multi-task Learning and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 
 [Pieter Abbeel: Foundations of Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
