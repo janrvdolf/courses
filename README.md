@@ -18,7 +18,7 @@ Interesting people working on RL/MARL:
 
 [MIT: 6.S192 Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
-[TU of Darmstadt: Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PL6WLGVNe6ZcA4gUr5MaAKdrGxYzYAETK3))
+[TU of Darmstadt: Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PL6WLGVNe6ZcA4gUr5MaAKdrGxYzYAETK3)
 
 [Stanford U: CS330 Deep Multi-task Learning and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 
