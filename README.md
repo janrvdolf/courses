@@ -34,6 +34,8 @@ Interesting people working on RL/MARL:
 
 [IIT: Stochastic Calculus](https://www.youtube.com/playlist?list=PLPaq6BG3QWZMkwcIN1cXKx776kyQ2aznG)
 
+[ETH Zurich: Control Systems](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0103-00L.html)
+
 [ETH Zurich: Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0971-00L.html)
 
 
