@@ -34,6 +34,8 @@ Interesting people working on RL/MARL:
 
 [UC Berkeley: CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
+[UC Berkeley:  CS294-158 Deep Unsupervised Learning](https://www.youtube.com/watch?v=tFR6Likf4VI&list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
+
 [IIT: Stochastic Calculus](https://www.youtube.com/playlist?list=PLPaq6BG3QWZMkwcIN1cXKx776kyQ2aznG)
 
 [ETH Zurich: Control Systems](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0103-00L.html)
