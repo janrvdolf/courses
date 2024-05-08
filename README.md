@@ -20,7 +20,7 @@ Interesting people working on RL/MARL:
 
 [MIT: 6.S192 Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
-[MIT: 6.S087 Foundation Models & Generative AI] | [web](https://www.futureofai.mit.edu/)
+[MIT: 6.S087 Foundation Models & Generative AI](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR) | [web](https://www.futureofai.mit.edu/)
 
 [TU of Darmstadt: Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PL6WLGVNe6ZcA4gUr5MaAKdrGxYzYAETK3)
 
