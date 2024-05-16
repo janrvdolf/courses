@@ -6,6 +6,10 @@ Interesting people working on RL/MARL:
 
 [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
 
+[Stefano Ernom](https://ermongroup.github.io/blog/)
+
+[Thomas Parr](https://tejparr.github.io/)
+
 # Courses
 
 [CMU: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
@@ -21,6 +25,8 @@ Interesting people working on RL/MARL:
 [MIT: 6.S192 Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
 [MIT: 6.S087 Foundation Models & Generative AI](https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR) | [web](https://www.futureofai.mit.edu/)
+
+[MIT: 6.8210 Underactuated Robotics (2024)](https://www.youtube.com/playlist?list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s)
 
 [TU of Darmstadt: Deep Learning for Natural Language Processing](https://www.youtube.com/playlist?list=PL6WLGVNe6ZcA4gUr5MaAKdrGxYzYAETK3)
 
