@@ -48,7 +48,7 @@ Interesting people working on RL/MARL:
 
 [ETH Zurich: Control Systems](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0103-00L.html)
 
-[Technion: Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) [web](https://elad.cs.technion.ac.il/236610-diffusion-models/)
+[Technion: Generative AI - Diffusion Models](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ) | [web](https://elad.cs.technion.ac.il/236610-diffusion-models/)
 
 [ETH Zurich: Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0971-00L.html)
 
