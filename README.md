@@ -52,4 +52,10 @@ Interesting people working on RL/MARL:
 
 [ETH Zurich: Computational Psychiatry](https://video.ethz.ch/lectures/d-itet/2022/autumn/227-0971-00L.html)
 
+[Critical Thinking: Fayetteville State University](https://www.youtube.com/playlist?list=PLE2A771BBA7773B62)
+
+[Prakticka metodologie vedy: Charles University](https://web.natur.cuni.cz/flegr/praktmet.html?fbclid=IwAR07QBzaMmP13fB3xhF7y4nt8s4QszGphuK4_oVOliFBwSmQ4olBwcduLNs)
+
+[Rationality: Harvard University](https://harvard.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2255a37adc-eaae-4aa6-8a06-ab25015a4ee8%22)
+
 
